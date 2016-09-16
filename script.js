@@ -14,7 +14,8 @@ var norms = [
   'We frequently practice the “Around the Horn” tradition.',
   'A sense of humor is a job requirement.',
   'Test.',
-  'Test2.'
+  'Test2.',
+  'Test3.'
 ];
 
 function printRandomNorm() {
