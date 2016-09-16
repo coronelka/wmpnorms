@@ -15,7 +15,8 @@ var norms = [
   'A sense of humor is a job requirement.',
   'Test.',
   'Test2.',
-  'Test3.'
+  'Test3.',
+  'Test4.'
 ];
 
 function printRandomNorm() {
